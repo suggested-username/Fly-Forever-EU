@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+	"name": "fly-forever",
+	"author": ["Pinkie Pie", "Saegusa", "TerableCoder"],
+    "homepage": "https://github.com/TerableCoder/fly-forever",
+	"description": "Removes P2W flight stamina restriction.",
+	"conflicts": ["fly-more"],
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/fly-forever/master/"]
+}
